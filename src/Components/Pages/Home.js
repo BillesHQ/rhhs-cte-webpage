@@ -8,7 +8,7 @@ class Home extends Component {
       <div>
         <Splash/>
         <h2> Career and Technical Education programs are made up of elective courses that teach students about different careers. Richmond Hill High School offers several different CTE pathways including: </h2>
-        <ul class = "list">
+        <ul className = "list">
             <li>Hospitalisty and Tourism</li>
             <li>Software Engineering</li>
             <li>Health Sciences</li>
